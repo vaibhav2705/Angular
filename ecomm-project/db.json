@@ -11,6 +11,18 @@
       "password": "Ashish@!",
       "email": "Ashish@gmail.com",
       "id": 2
+    },
+    {
+      "name": "Dipesh",
+      "password": "Dipesh@1",
+      "email": "dipesh@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "China",
+      "password": "China@1",
+      "email": "China@@gmail.com",
+      "id": 4
     }
   ]
 }
